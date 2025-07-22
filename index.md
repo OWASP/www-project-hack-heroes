@@ -10,7 +10,7 @@ pitch: Inspiring young people to explore cybersecurity through fun, interactive 
 ---
 
 <p align="center">
-  <img src="/assets/images/hackheroes.png" alt="Hack Heroes Logo" width="300"/>
+  <img src="assets/images/hackheroes.png" alt="Hack Heroes Logo" width="300"/>
 </p>
 
 OWASP Hack Heroes 🦸 is an open-source project created to inspire young people to explore careers in 🛡️ cybersecurity. It features a series of in-browser challenges aimed at ages 8-14, but is fun for all ages.
