@@ -1,17 +1,15 @@
 ### Hack Heroes Information
+* [Live Platform @ hackhero.es](https://hackhero.es)
+* [Source Code on GitHub](https://github.com/itscooper/hackheroes)
 * [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
+* [Version: Pre-Release](#)
 * [Builder](#)
 * [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
+### Social & Community
+* [Contact Chris Cooper](mailto:chris.cooper@owasp.org)
+* [Report Issues](https://github.com/itscooper/hackheroes/issues)
 
 ### Change Log
-* [changes](#)
+* [GitHub Changelog](https://github.com/itscooper/hackheroes/releases)
 

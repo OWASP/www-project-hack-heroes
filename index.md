@@ -1,21 +1,50 @@
 ---
 
 layout: col-sidebar
-title: OWASP Hack Heroes
+title: 🦸 OWASP Hack Heroes
 tags: example-tag
 level: 2
 type: code
-pitch: A very brief, one-line description of your project
+pitch: Inspiring young people to explore cybersecurity through fun, interactive challenges
 
 ---
 
-Hack Heroes is an open-source project designed to teach young learners about cybersecurity and web security in a fun, interactive, and educational way. The ultimate aim is to inspire young people to consider cybersecurity and technology careers. There is currently a significant gap in the industry when it comes to resources for young people. The project offers simple in-browser application security challenges aimed at kids aged 8-14, but the engaging nature of the tasks makes it enjoyable for users of all ages.
+[![Visit Hack Heroes](https://hackhero.es/favicon.ico)](https://hackhero.es)
+
+OWASP Hack Heroes 🦸 is an open-source project created to inspire young people to explore careers in 🛡️ cybersecurity. It features a series of in-browser challenges aimed at ages 8-14, but is fun for all ages.
+
+- **Live Platform:** [hackhero.es](https://hackhero.es)
+- **Source Code:** [GitHub - hackheroes](https://github.com/itscooper/hackheroes)
+
+### Key Features
+- **Engaging Spy-Themed Cybersecurity Challenges:** Solve missions that teach technical concepts in a fun, interactive way.
+- **Interactive Learning:** Each challenge provides hints, objectives, and tools to help players learn and complete tasks.
+- **Customisable Toolset:** Gadgets include an HTML Reader/Editor, JavaScript Console, Decoders, and more to help users complete their missions.
+- **Browser-Based:** All game logic executes in the user's browser, making it easy to host and great for privacy and security.
+- **Local Data Storage:** Game progress is stored locally in the browser, not on servers, ensuring privacy and security.
+- **Alpine.js-Powered:** Application logic is built using [Alpine.js](https://alpinejs.dev/).
+- **Modern UI:** Uses [Bulma](https://bulma.io/) for responsive design and [Ace Editor](https://ace.c9.io/) for code editing.
+- **Tested with BrowserStack:** Ensures cross-browser compatibility.
+
+### Technology Stack
+- **HTML, JavaScript, CSS**
+- **Alpine.js** for dynamic content and interaction
+- **Bulma** for modern, responsive design
+- **Ace Editor** for in-browser code editing
+- **LocalStorage** for saving player progress
 
 ### Road Map
-Currently there are 6 challenges, 5 'gadgets' which users can use to solve challenges, and a simple overall presentation layer. This has been tested with a small sample of young people so far. Going forward:
+Currently there are 6 challenges, 5 'gadgets' for solving challenges, and a simple presentation layer. Future plans include:
 
-* Author a further 6 challenges (aligned with early computer science learning objectives) to create an initial core storyline that can be used in schools.
-* Work with UK STEM ambassadors ([https://www.stem.org.uk/stem-ambassadors|https://www.stem.org.uk/stem-ambassadors]) to pilot in schools and gather feedback from participants.
-* Create a knowledgebase element to the software so that young people can dive deeper on the topics behind the challenges and learn about about the underlying principles.
-* Consider developing server-based support for leaderboards and/or the ability to save/restore progress in a different browser.
-* Create further sets of challenges for different ages and levels of difficulty, ideally tying in more explicitly with cybersecurity careers and careers resources.
+* Authoring more challenges aligned with early computer science learning objectives.
+* Piloting in schools and gathering feedback.
+* Creating a knowledgebase for deeper learning.
+* Considering server-based support for leaderboards and progress saving.
+* Expanding challenge sets for different ages and difficulty levels.
+
+### Data & Privacy
+Hack Heroes stores anonymous challenge status data in your browser. No personal information is required or stored on servers.
+
+---
+
+For more details, visit the [main website](https://hackhero.es) or the [GitHub repository](https://github.com/itscooper/hackheroes).
