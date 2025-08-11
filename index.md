@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: 🦸 OWASP Hack Heroes
+title: OWASP Hack Heroes
 tags: example-tag
 level: 2
 type: code
