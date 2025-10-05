@@ -1,0 +1,25 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Chris Cooper
+    email: chris.cooper@owasp.org
+    github: itscooper
+level: 2
+license:
+  - AGPL-3.0
+name: OWASP Hack Heroes
+pitch: Inspiring young people to explore cybersecurity through fun, interactive challenges
+repositories:
+  - name: www-project-hack-heroes
+    url: https://github.com/OWASP/www-project-hack-heroes
+    description: OWASP Foundation web repository
+  - name: hackheroes
+    url: https://github.com/itscooper/hackheroes
+    description: Cybersecurity challenges to inspire young people
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-hack-heroes
